@@ -13,6 +13,11 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque asperiores doloremque mollitia consequatur ducimus
         nam quaerat voluptatibus ipsum aliquam pariatur. Quidem tempora autem eligendi magnam aperiam ratione esse quos
         dignissimos.</p>
+
+    <ul>
+        <li>Penambahan</li>
+        <li>Ini juga</li>
+    </ul>
 </body>
 
 </html>
